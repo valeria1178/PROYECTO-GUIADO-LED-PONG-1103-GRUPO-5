@@ -3,23 +3,23 @@
 
  ### 1.1 LIDER 
  
- #### I. Valeria Rodríguez 
+ #### I. Valeria Rodríguez Rodríguez
  
 ### 1.2 CONSTRUCTORES
 
- #### I. Valentina Restrepo
+ #### I. Valentina Restrepo Arango
  
-  #### II. Santiago Rodríguez
+  #### II. Santiago Javier Rodríguez Estupiñan 
  
 ### 1.3 DISEÑADORES
 
- #### I. Valeria Alejandra Vargas 
+ #### I. Valeria Alejandra Vargas Cardenas  
 
- #### II. Sergio Andrés Paez
+ #### II. Sergio Andrés Paez Correa
  
 ### 1.4 PROGRAMADOR
 
-  #### I. Sergio Andrés Rosas
+  #### I. Sergio Andrés Rosas Peña
 
 ### 2.METODOLOGÍA DEL DISEÑO PARTICIPATIVO
 
