@@ -1,8 +1,7 @@
 # PROYECTO-GUIADO-LED-PONG-1103-GRUPO-5
 ## FUNCIONAMIENTO:
 
-###En este trabajo se presenta el diseño e implementación de un juego de ping-pong sobre matrices de LED's, basado en un sistema micro controlado por Arduino.Donde se desplaza la pelota con una componente de aleatoriedad en
-su trayectoria manipulado por 2 potenciometros ,su desplazamiento se simula por medio del encendido secuencial de un led sobre la matriz produciendo sonido en el momento aque se marca un punto.
+### En este trabajo se presenta el diseño e implementación de un juego de ping-pong sobre matrices de LED's, basado en un sistema micro controlado por Arduino.Donde se desplaza la pelota con una componente de aleatoriedad ensu trayectoria manipulado por 2 potenciometros ,su desplazamiento se simula por medio del encendido secuencial de un led sobre la matriz produciendo sonido en el momento aque se marca un punto.
 
 ## MATERIALES:
 
@@ -21,15 +20,20 @@ su trayectoria manipulado por 2 potenciometros ,su desplazamiento se simula por 
 ### +Madera
 
 
-### ELABORACIÓN:
+## ELABORACIÓN:
+
 
 ![1](https://github.com/colegio-seminario-diocesano-de-duitama/PROYECTO-GUIADO-LED-PONG-1103-GRUPO-5/blob/master/IMAGES/WhatsApp%20Image%202019-03-21%20at%2012.00.10%20PM.jpeg)
-![2](https://github.com/colegio-seminario-diocesano-de-duitama/PROYECTO-GUIADO-LED-PONG-1103-GRUPO-5/blob/master/IMAGES/WhatsApp%20Image%202019-03-21%20at%2012.00.11%20PM%20(1).jpeg)
+
+![2](https://github.com/colegio-seminario-diocesano-de-duitama/PROYECTO-GUIADO-LED-PONG-1103-GRUPO-
+5/blob/master/IMAGES/WhatsApp%20Image%202019-03-21%20at%2012.00.11%20PM%20(1).jpeg)
+
 ![3](https://github.com/colegio-seminario-diocesano-de-duitama/PROYECTO-GUIADO-LED-PONG-1103-GRUPO-5/blob/master/IMAGES/WhatsApp%20Image%202019-03-21%20at%2012.00.11%20PM.jpeg)
 
 ### ESTRUCTURA :
 
 ![4](https://github.com/colegio-seminario-diocesano-de-duitama/PROYECTO-GUIADO-LED-PONG-1103-GRUPO-5/blob/master/IMAGES/Untitled%20Sketch.fzz%20valeria_bb.png)
+
 ![5](https://github.com/colegio-seminario-diocesano-de-duitama/PROYECTO-GUIADO-LED-PONG-1103-GRUPO-5/blob/master/IMAGES/Untitled%20Sketch.fzz%20valeria_esquem%C3%A1tico.png)
 
 
