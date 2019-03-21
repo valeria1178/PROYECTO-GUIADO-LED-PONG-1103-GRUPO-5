@@ -21,7 +21,6 @@
 
 ### +Madera
 
-
 ## ELABORACIÓN:
 
 
@@ -42,6 +41,10 @@
 ![7](https://github.com/colegio-seminario-diocesano-de-duitama/PROYECTO-GUIADO-LED-PONG-1103-GRUPO-5/blob/master/IMAGES/Untitled%20Sketch.fzz%20valeria_bb.png)
 
 ![8](https://github.com/colegio-seminario-diocesano-de-duitama/PROYECTO-GUIADO-LED-PONG-1103-GRUPO-5/blob/master/IMAGES/Untitled%20Sketch.fzz%20valeria_esquem%C3%A1tico.png)
+
+## MODELO:
+
+![9](https://github.com/colegio-seminario-diocesano-de-duitama/PROYECTO-GUIADO-LED-PONG-1103-GRUPO-5/blob/master/IMAGES/lalalaal.png)
 
 
 
