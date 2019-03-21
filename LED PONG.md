@@ -25,11 +25,11 @@
 
 ![1](https://github.com/colegio-seminario-diocesano-de-duitama/PROYECTO-GUIADO-LED-PONG-1103-GRUPO-5/blob/master/IMAGES/WhatsApp%20Image%202019-03-21%20at%2012.00.10%20PM.jpeg)
 
-![2](https://github.com/colegio-seminario-diocesano-de-duitama/PROYECTO-GUIADO-LED-PONG-1103-GRUPO--5/blob/master/IMAGES/WhatsApp%20Image%202019-03-21%20at%2012.00.11%20PM%20(1).jpeg)
+![2](https://github.com/colegio-seminario-diocesano-de-duitama/PROYECTO-GUIADO-LED-PONG-1103-GRUPO-5/blob/master/IMAGES/WhatsApp%20Image%202019-03-21%20at%2012.00.11%20PM%20(1).jpeg)
 
 ![3](https://github.com/colegio-seminario-diocesano-de-duitama/PROYECTO-GUIADO-LED-PONG-1103-GRUPO-5/blob/master/IMAGES/WhatsApp%20Image%202019-03-21%20at%2012.00.11%20PM.jpeg)
 
-### ESTRUCTURA :
+## ESTRUCTURA :
 
 ![4](https://github.com/colegio-seminario-diocesano-de-duitama/PROYECTO-GUIADO-LED-PONG-1103-GRUPO-5/blob/master/IMAGES/Untitled%20Sketch.fzz%20valeria_bb.png)
 
