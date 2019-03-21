@@ -45,6 +45,6 @@
 ## MODELO:
 
 ![9](https://github.com/colegio-seminario-diocesano-de-duitama/PROYECTO-GUIADO-LED-PONG-1103-GRUPO-5/blob/master/IMAGES/lalalaal.png)
-
+![10](https://github.com/colegio-seminario-diocesano-de-duitama/PROYECTO-GUIADO-LED-PONG-1103-GRUPO-5/blob/master/IMAGES/LULULU.png)
 
 
