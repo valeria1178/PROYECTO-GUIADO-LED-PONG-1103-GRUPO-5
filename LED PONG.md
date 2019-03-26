@@ -1,15 +1,15 @@
 # PROYECTO-GUIADO-LED-PONG-1103-GRUPO-5
 
 
-## Descripciòn:
+## Descripción:
 
 En este trabajo se presenta el diseño e implementación de un juego de ping-pong sobre matrices de LED's, basado en un sistema micro controlado por Arduino.Donde se desplaza la pelota con una componente de aleatoriedad ensu trayectoria manipulado por 2 potenciometros ,su desplazamiento se simula por medio del encendido secuencial de un led sobre la matriz produciendo sonido en el momento aque se marca un punto.
 
 ## Funcionamiento:
 
-#El montaje funciona con nuestra placa arduino desde la salida de 5 v,  la salida de tierra ( GND) y los pines 10,11 y 12 correspondientemente, se conectan a los pines de las matrices DIN,CS y CLK, de este modo se trasmite energia y funcionalidad entre ellas. Las matricez se conectan entre si por medio de los jumpers (hembra-hembra,macho-hembra,macho-macho).
+El montaje funciona con nuestra placa arduino desde la salida de 5 v,  la salida de tierra ( GND) y los pines 10,11 y 12 correspondientemente, se conectan a los pines de las matrices DIN,CS y CLK, de este modo se trasmite energia y funcionalidad entre ellas. Las matricez se conectan entre si por medio de los jumpers (hembra-hembra,macho-hembra,macho-macho).
 
-#La carga positiva se conecta en el pin VCC Y la negativa en el pin GND. Los potenciadores van conectados en los puertos digitales analogos A0 y A1, positivo( rojo) y negativo ( negro). El Buzzer funciona con una resistencia 220 Ohm.
+La carga positiva se conecta en el pin VCC Y la negativa en el pin GND. Los potenciadores van conectados en los puertos digitales analogos A0 y A1, positivo) y negativo,el Buzzer funciona con una resistencia 220 Ohm.
 
 
 ## MATERIALES:
